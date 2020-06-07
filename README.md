@@ -9,3 +9,9 @@ every cell is of 24 pixels.
 
 if you hit the gold you will be credited with 100 gold.
 
+If you hit the river you will (need to implement).
+
+The door is a teleporter it will teleport you to another door.
+
+The game will end once you touch the Treasure.
+
